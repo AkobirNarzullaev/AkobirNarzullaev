@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AkobirNarzullaev
-- 👀 I’m interested in Software Engineering. I am junior student in INHA University in Tashkent. I am majoring in Software Engineering
+- 👀 I’m a Software Engineer and Data Science enthusiast. I am junior student in INHA University in Tashkent. I am majoring in Software Engineering
 - 🌱 I’m currently learning Python, JavaScript and SQL
 - 📫 How to reach me https://t.me/akobiir1
