@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @AkobirNarzullaev<br>I’m a Data Science Engineer<br>My stack is Python, JavaScript and SQL<br>I am a senior student in INHA University in Tashkent. I am majoring in Computer Engineering<br>How to reach me https://t.me/akobiir1
+Hi, I’m @AkobirNarzullaev<br>I’m a Data Science/ML Engineer<br>My stack is Python, JavaScript and SQL<br>I am a senior student in INHA University in Tashkent. I am majoring in Computer Engineering<br>How to reach me https://t.me/akobiir1
 
 
 ## 🌐 Socials:
