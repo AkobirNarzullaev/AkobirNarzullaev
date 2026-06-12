@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @AkobirNarzullaev<br>I’m a middle Data Science/ML Engineer @ Beeline Uzbekistan<br>My stack is Python, JavaScript and SQL<br>I am a graduate of INHA University in Tashkent.<br>How to reach me https://t.me/akobiir1
+Hi, I’m @AkobirNarzullaev<br>I’m a middle Data Science/ML Engineer @ Paynet<br>My stack is Python, JavaScript and SQL<br>I am a graduate of INHA University in Tashkent.<br>How to reach me https://t.me/akobiir1
 
 
 ## 🌐 Socials:
